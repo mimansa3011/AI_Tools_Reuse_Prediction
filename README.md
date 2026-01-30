@@ -78,7 +78,7 @@ The best model achieved an accuracy of approximately **72%**, indicating moderat
 
 ---
 
-## 🛠 Technologies & Libraries Used
+##  Technologies & Libraries Used
 
 * Python
 * Pandas, NumPy
@@ -105,6 +105,7 @@ This project demonstrates that machine learning can provide useful insights into
 ##  Author
 
 **Mimansa Chhabra**
+
 Internship Project | Machine Learning
 
 ---
